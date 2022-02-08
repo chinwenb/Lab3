@@ -1,0 +1,21 @@
+td {
+    width: 150px;
+    height: 150px;
+  }
+  
+  table {
+    margin: auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .middleLine{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+  }
+  
+  .firstSecondline {
+    border-bottom: 3px solid black;
+  }
